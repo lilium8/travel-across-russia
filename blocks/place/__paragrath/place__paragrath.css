@@ -1,0 +1,13 @@
+.place__paragrath {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__paragrath {
+    font-size: 16px;
+  }
+  
+}

@@ -1,0 +1,8 @@
+.header__links {
+  align-self: flex-end;
+  padding-bottom: 2px;
+}
+
+.header__link:nth-child(2) {
+  margin-left: 18px;
+}

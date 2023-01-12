@@ -1,0 +1,14 @@
+.header {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 28px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .header {
+    padding: 16px 16px 0 16px;
+    min-width: 288px;
+  }
+}
